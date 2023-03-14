@@ -11,7 +11,7 @@ If you don't trust this bot,
 2) block bot or delete chat
 
 This Bot Works To Help You Get Session String Via Bot. Recommendations If You Want To Take String Use Another Account,
-Managed By @zenfrans
+Managed By @lIA_All
     """
 
     # Home Button
@@ -52,13 +52,13 @@ Managed By @zenfrans
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to retrieve pyrograms and telethon string sessions by @nbzoning
+A telegram bot to retrieve pyrograms and telethon string sessions by @lIA_All
 
-Group Support : [Gabung](https://t.me/OkaeriUserbot)
+Group Support : [Gabung](https://t.me/+oqMSkSPWq0A3ZWRl)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @zenfrans
+Developer : @lIA_All
     """
